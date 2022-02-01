@@ -1,1 +1,1 @@
-print(game.Players.LocalPlayer.Character["HumanoidRootPart"].position) --prints your HumanoidRootPart position
+print(game.Players.LocalPlayer.Character["HumanoidRootPart"]) --prints your HumanoidRootPart
